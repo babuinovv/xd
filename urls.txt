@@ -1,7 +1,1 @@
-https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt
-https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt
-https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt
-https://raw.githubusercontent.com/officialputuid/KangProxy/KangProxy/http/http.txt
-https://raw.githubusercontent.com/officialputuid/KangProxy/KangProxy/socks5/socks5.txt
-https://raw.githubusercontent.com/officialputuid/KangProxy/KangProxy/socks4/socks4.txt
 http://147.45.76.99/proxies
